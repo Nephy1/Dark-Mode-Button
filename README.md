@@ -34,7 +34,15 @@ I think css grid would have been a tad easier to work with if I knew it just as 
  
  Started using grid for gallery, not insanely hard for a simple setup but I haven't been using *span* at all.
 
- 
+## Dark Mode Color Scheme
+
+-Use pallette that's linked below.
+  -Change background color
+  -possibly change text color?
+
+-Where should I add the switch?
+  -Beside Nav?
+  -Beside Icon?
 
 # Disclaimer
 All album artwork shown on this site goes to their respective owners. 
@@ -77,3 +85,9 @@ https://privacy.umusic.com/store-terms-umg.html
 
 Father Of All
 https://www.warnermusic.ca/terms-of-use
+
+Dark Mode Colour Gradient
+https://colorhunt.co/palette/0000001500503f0071610094
+
+Button Styling
+http://browsertherapy.com/challenges/css-toggles-with-classlist/

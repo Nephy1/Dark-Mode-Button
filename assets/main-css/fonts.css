@@ -23,3 +23,7 @@ p {
   font-family:Lato;
   font-weight: 10;
 }
+#btn {
+  font-family: Lato;
+  font-variant: small-caps;
+}
