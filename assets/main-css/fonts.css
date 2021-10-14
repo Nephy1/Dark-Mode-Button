@@ -1,0 +1,25 @@
+h1, .h2-title, .banger-title {
+  color:skyblue;
+font-family: Rock Salt;
+text-shadow: black 2px 2px;
+}
+h1, .banger-title {
+  font-size: 60px;
+}
+
+h2 {
+  font-family: Rock Salt;
+  text-shadow: grey 2px 2px;
+}
+.top-nav a, li {
+  font-family: Lato;
+  color: skyblue;
+  font-size: 25px;
+}
+.top-nav a:hover {
+  background-color: black;
+}
+p {
+  font-family:Lato;
+  font-weight: 10;
+}
