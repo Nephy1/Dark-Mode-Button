@@ -10,12 +10,13 @@ body, html {
   border: solid 5px grey;
 }
 /* DARK MODE BUTTON */
-#btn {
+.drk-btn {
   margin: 0px 0px 0px 5px;
   max-width: 66px;
   cursor: pointer;
   border-radius: 10px;
 }
+
 
 nav {
   background-color: #9644BB;
@@ -271,3 +272,11 @@ img {
   max-width: 300px, 100%;
   display: block;
 }
+
+
+/* DARK MODE SETTINGS */
+
+.darkmode {
+  color: #3F0071;
+  background-color: black;
+  }
