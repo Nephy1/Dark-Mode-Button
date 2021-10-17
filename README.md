@@ -44,6 +44,14 @@ I think css grid would have been a tad easier to work with if I knew it just as 
   -Beside Nav?
   -Beside Icon?
 
+
+
+## 1 / 12 Cards are switching on toggle
+
+-I've tried doing if else statements, comparisons, console logging, and I can't get the other 11 cards to switch correctly. Not understanding why the text colour for all 12 switch fine but icons and background color refuse to.
+
+---
+
 # Disclaimer
 All album artwork shown on this site goes to their respective owners. 
 
