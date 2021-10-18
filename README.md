@@ -1,6 +1,6 @@
-# CPNT-260-A2 Product Page
-https://github.com/Nephy1/Nephy1-CPNT-260-A3
-https://nephy1.github.io/Nephy1-CPNT-260-A3/
+# CPNT-262-A1 Toggle Button
+https://nephy1.github.io/cpnt-262-a1/
+https://github.com/Nephy1/cpnt-262-a1
 
 ## Product Page rough draft
 
@@ -48,7 +48,7 @@ I think css grid would have been a tad easier to work with if I knew it just as 
 
 ## 1 / 12 Cards are switching on toggle
 
--I've tried doing if else statements, comparisons, console logging, and I can't get the other 11 cards to switch correctly. Not understanding why the text colour for all 12 switch fine but icons and background color refuse to.
+-I've tried doing if else statements, comparisons, console logging, along with trying to target that body like Tony told me, and I can't get the other 11 cards to switch correctly. Not understanding why the text colour for all 12 switch fine but icons and background color refuse to.
 
 ---
 
