@@ -1,6 +1,7 @@
 # CPNT-262-A1 Toggle Button
-https://nephy1.github.io/cpnt-262-a1/
-https://github.com/Nephy1/cpnt-262-a1
+https://nephy1.github.io/Dark-Mode-Button
+
+https://github.com/Nephy1/Dark-Mode-Button
 
 ## Product Page rough draft
 
